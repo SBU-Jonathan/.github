@@ -1,6 +1,6 @@
 # COLA 
 
-The COLA code is setup at [FML](https://github.com/SBU-Jonathan/FML) repository. We made installation easier with CONDA. 
+The COLA code is setup at [FML](https://github.com/SBU-Jonathan/FML) repository. We made installation easier with Conda. 
 
 ## Conda Cola Environment
 Setup the Cola environment with the command:
